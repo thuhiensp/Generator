@@ -1,0 +1,7 @@
+*.iml
+.idea/
+/.metadata/
+/src/bin
+jsinterop-gen.wiki/
+target/
+xtend-gen/
